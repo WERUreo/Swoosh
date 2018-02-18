@@ -1,4 +1,4 @@
-package com.werureo.swoosh
+package com.werureo.swoosh.controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
